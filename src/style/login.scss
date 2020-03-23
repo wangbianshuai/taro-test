@@ -1,0 +1,24 @@
+.divContainer{
+  flex: 1;
+  display: flex;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.divLogin{
+  display: flex;
+  width: 80%;
+  height: 500px;
+}
+
+property-item{
+  width: 100%;
+}
+
+.loginHeader{
+   height: 80px;
+   line-height: 80px;
+   text-align: center;
+}
